@@ -1,16 +1,12 @@
-<h1 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there,+I'm+Semyon+KUROCHKIN!😄" alt="Typing SVG" /></a> </h1>
-Hi there, I'm
-<!--
-**Simon99111/Simon99111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1> <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there,+I'm+Semyon+KUROCHKIN!😄" alt="Typing SVG" /></a> </h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><font size="12"><font color="#ffffff"><font face="Times New Roman"><u> CONTACT </u></font></p>
+<body>
+<p align="center">
+<a href="https://vk.com/kurochkin_99"> <img src="icons/vkontakte.png" width="60" height="60" alt=""></a>
+<a href="https://t.me/SemyonKUROCHKIN99"> <img src="icons/telegram.png" width="60" height="60" alt=""></a>
+<a href="https://www.linkedin.com/in/semyon-kurochkin/"> <img src="icons/in.png" width="60" height="60" alt=""></a>
+<a href="https://www.instagram.com/simon_kurochkin/"> <img src="icons/instagram.png" width="60" height="60" alt=""></a>
+</p>
+</body>
