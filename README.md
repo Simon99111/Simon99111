@@ -1,5 +1,4 @@
 <h1 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there,+I'm+Semyon+KUROCHKIN!😄" alt="Typing SVG" /></a> </h1>
-Hi there, I'm
 <!--
 **Simon99111/Simon99111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
