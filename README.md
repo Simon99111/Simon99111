@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-  <img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" width="160"/><img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" width="160"/><img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" width="160"/><img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" width="160"/><img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" width="160"/>
+<img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" width="170"/><img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" width="170"/><img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" width="170"/><img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" width="170"/><img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" width="170"/>
 
 
 <h1> <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there,+I'm+Semyon+KUROCHKIN!😄" alt="Typing SVG" /></a> </h1>
