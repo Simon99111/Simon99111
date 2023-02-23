@@ -1,9 +1,5 @@
 <div id="header" align="center">
-  
-  <img src="icons/giphy.gif" width="870" height="100" alt="">
-  
-
-<h1> <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there,+I'm+Semyon+KUROCHKIN!😄" alt="Typing SVG" /></a> </h1>
+<h1> <a align="center"><img src="icons/Head.png" width="1000" height="170" alt="" /></a> </h1>
 </div>
 
 ### My Stats :
