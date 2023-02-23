@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<h1> <a align="center"><img src="icons/Head.png" width="1000" height="170" alt="" /></a> </h1>
+<h1> <a align="center"><img src="icons/Head.png" width="850" height="160" alt="" /></a> </h1>
 </div>
 
 ### My Stats :
