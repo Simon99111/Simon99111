@@ -1,11 +1,7 @@
 <div id="header" align="center">
   
-  <img src="icons/vkontakte.png" width="60" height="60" alt="">
+  <img src="icons/giphy.gif" width="700" height="100" alt="">
   
-<img src="https://media.giphy.com/media/FaAxdPWZ7HKGmlnku7/giphy.gif" width="1000"/>
-  <img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" width="135"/><img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" width="135"/>
-  
-<!--   <img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" width="165"/><img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" width="165"/> -->
 
 <h1> <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there,+I'm+Semyon+KUROCHKIN!😄" alt="Typing SVG" /></a> </h1>
 </div>
