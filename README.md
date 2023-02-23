@@ -2,8 +2,8 @@
   
 <img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" width="165"/><img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" width="165"/><img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" width="165"/><img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" width="165"/><img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" width="165"/>
 
-
 <h1> <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there,+I'm+Semyon+KUROCHKIN!😄" alt="Typing SVG" /></a> </h1>
+</div>
 
 ### My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Simon99111&theme=blue-green&border_radius=4&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
