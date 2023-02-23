@@ -1,6 +1,9 @@
 <div id="header" align="center">
   
-<img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" width="135"/><img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" width="135"/><img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" width="135"/>
+  <img src="icons/vkontakte.png" width="60" height="60" alt="">
+  
+<img src="https://media.giphy.com/media/FaAxdPWZ7HKGmlnku7/giphy.gif" width="1000"/>
+  <img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" width="135"/><img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" width="135"/>
   
 <!--   <img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" width="165"/><img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" width="165"/> -->
 
