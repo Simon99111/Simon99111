@@ -1,4 +1,4 @@
-<div id="header" align="center"><h1> <a align="center"><img src="icons/Head.png" width="850" height="160" alt="" /></a> </h1></div>
+<div id="header" align="center"><h1> <a align="center"><img src="icons/Head.png" width="1200" height="300" alt="" /></a> </h1></div>
 
 ### My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Simon99111&theme=blue-green&border_radius=4&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
