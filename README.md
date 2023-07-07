@@ -5,7 +5,6 @@
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Simon99111&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simon99111)](https://github.com/anuraghazra/github-readme-stats)
 
 
